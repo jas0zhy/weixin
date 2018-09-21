@@ -1,0 +1,301 @@
+2018-09-06 06:38:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1NUzTKPXf36sB_FRxKmDLqI]]></FromUserName>
+<CreateTime>1536187134</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000036</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>178</TotalCount>
+<FilterCount>178</FilterCount>
+<SentCount>178</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2018-09-06 06:38:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 06:38:55 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1NUzTKPXf36sB_FRxKmDLqI ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-09-06 07:16:45 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1EgGWTxZ9aaaTYyBTdXs37A]]></FromUserName>
+<CreateTime>1536189405</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-09-06 07:16:45 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 07:16:45 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1EgGWTxZ9aaaTYyBTdXs37A ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-09-06 07:17:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1EgGWTxZ9aaaTYyBTdXs37A]]></FromUserName>
+<CreateTime>1536189443</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-09-06 07:17:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1DOIBpG3G6c-HaWbB0OJTew]]></FromUserName>
+<CreateTime>1536189449</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-09-06 08:10:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1IU8uTrFkU3KBpWP693yYtw]]></FromUserName>
+<CreateTime>1536192624</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-09-06 09:02:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1DLLiQRzbmG-enZdKDdI1lY]]></FromUserName>
+<CreateTime>1536195722</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-09-06 09:02:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 09:02:02 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1DLLiQRzbmG-enZdKDdI1lY ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-09-06 12:42:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1IVmGJdmXNIq_OaNERttrrY]]></FromUserName>
+<CreateTime>1536208959</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-09-06 12:42:39 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 12:42:39 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1IVmGJdmXNIq_OaNERttrrY ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-09-06 16:12:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1K2pbvFK6XvGfH3fuOnMWHE]]></FromUserName>
+<CreateTime>1536221521</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-09-06 16:12:01 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 16:12:01 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1K2pbvFK6XvGfH3fuOnMWHE ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-09-06 20:37:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wU8_wSgcA7Y6J0NunnsPZIU]]></FromUserName>
+<CreateTime>1536237458</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-09-06 20:37:39 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 20:37:39 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wU8_wSgcA7Y6J0NunnsPZIU ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-09-06 20:37:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wU8_wSgcA7Y6J0NunnsPZIU]]></FromUserName>
+<CreateTime>1536237475</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=40]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-09-06 20:37:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 20:37:55 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wU8_wSgcA7Y6J0NunnsPZIU ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-09-06 20:38:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wU8_wSgcA7Y6J0NunnsPZIU]]></FromUserName>
+<CreateTime>1536237523</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=22]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-09-06 20:38:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 20:38:44 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wU8_wSgcA7Y6J0NunnsPZIU ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-09-06 20:43:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wU8_wSgcA7Y6J0NunnsPZIU]]></FromUserName>
+<CreateTime>1536237787</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=22]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-09-06 20:43:07 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-06 20:43:07 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wU8_wSgcA7Y6J0NunnsPZIU ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+

@@ -1,0 +1,301 @@
+2017-10-27 08:24:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wJ0Gm5Hz82p8VI5NP8UxMQc]]></FromUserName>
+<CreateTime>1509063857</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-10-27 10:28:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b6dd8949412a]]></ToUserName>
+<FromUserName><![CDATA[osNo7w54C82-H1uZjFURzfa8xanY]]></FromUserName>
+<CreateTime>1509071312</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=15&c=home&t=18]]></EventKey>
+<MenuId>418590499</MenuId>
+</xml>
+
+2017-10-27 10:28:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 15 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 10:28:33 response :
+------------
+Array:
+FromUserName : gh_b6dd8949412a ;
+ToUserName : osNo7w54C82-H1uZjFURzfa8xanY ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技！ ;
+
+2017-10-27 11:37:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wN6QNONCK5O18dow7bPgHzw]]></FromUserName>
+<CreateTime>1509075473</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-10-27 11:37:54 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 11:37:54 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wN6QNONCK5O18dow7bPgHzw ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-10-27 12:50:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wL_2Aiurkxx3w8JomqmOEuM]]></FromUserName>
+<CreateTime>1509079855</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-10-27 12:50:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 12:50:56 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wL_2Aiurkxx3w8JomqmOEuM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-10-27 12:56:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wL_2Aiurkxx3w8JomqmOEuM]]></FromUserName>
+<CreateTime>1509080215</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-10-27 12:56:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 12:56:56 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wL_2Aiurkxx3w8JomqmOEuM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-10-27 13:54:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wL_2Aiurkxx3w8JomqmOEuM]]></FromUserName>
+<CreateTime>1509083695</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-10-27 13:54:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 13:54:55 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wL_2Aiurkxx3w8JomqmOEuM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-10-27 13:58:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wL_2Aiurkxx3w8JomqmOEuM]]></FromUserName>
+<CreateTime>1509083879</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-10-27 13:58:00 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 13:58:00 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wL_2Aiurkxx3w8JomqmOEuM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-10-27 15:33:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OSHE_EdfJ4_tV9QYzOeerE]]></FromUserName>
+<CreateTime>1509089613</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2017-10-27 15:33:34 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 15:33:34 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OSHE_EdfJ4_tV9QYzOeerE ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2017-10-27 15:34:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OSHE_EdfJ4_tV9QYzOeerE]]></FromUserName>
+<CreateTime>1509089672</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2017-10-27 15:34:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 15:34:33 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OSHE_EdfJ4_tV9QYzOeerE ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2017-10-27 16:05:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wDRC7_qMsBrVS4zNjrh8KrA]]></FromUserName>
+<CreateTime>1509091545</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-10-27 16:05:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 16:05:46 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wDRC7_qMsBrVS4zNjrh8KrA ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-10-27 16:27:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wDRC7_qMsBrVS4zNjrh8KrA]]></FromUserName>
+<CreateTime>1509092862</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-10-27 16:27:43 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-27 16:27:43 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wDRC7_qMsBrVS4zNjrh8KrA ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+

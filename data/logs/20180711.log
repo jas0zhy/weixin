@@ -1,0 +1,80 @@
+2018-07-11 10:36:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wVwwh2rYNmVBjWdM5aRM5FI]]></FromUserName>
+<CreateTime>1531276604</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-07-11 19:19:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev7rgFTScsTp7QcoD6aImWCs]]></FromUserName>
+<CreateTime>1531307950</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-07-11 19:19:10 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-11 19:19:10 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev7rgFTScsTp7QcoD6aImWCs ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-07-11 19:19:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev7rgFTScsTp7QcoD6aImWCs]]></FromUserName>
+<CreateTime>1531307966</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=site&a=site&do=detail&id=10]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-07-11 19:19:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-11 19:19:27 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev7rgFTScsTp7QcoD6aImWCs ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-07-11 19:20:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev7rgFTScsTp7QcoD6aImWCs]]></FromUserName>
+<CreateTime>1531308002</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

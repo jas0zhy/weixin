@@ -1,0 +1,113 @@
+2018-09-11 10:44:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wRy4LWhQg-D8jaU4zNWj9Kg]]></FromUserName>
+<CreateTime>1536633866</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=24]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-09-11 10:44:26 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-11 10:44:26 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wRy4LWhQg-D8jaU4zNWj9Kg ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-09-11 10:46:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wRy4LWhQg-D8jaU4zNWj9Kg]]></FromUserName>
+<CreateTime>1536633973</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=40]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-09-11 10:46:13 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-11 10:46:13 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wRy4LWhQg-D8jaU4zNWj9Kg ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-09-11 12:37:50 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-09-11 12:37:50 waring :
+------------
+String:
+Request Failed
+
+2018-09-11 12:37:53 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-09-11 12:37:53 waring :
+------------
+String:
+Request Failed
+
+2018-09-11 14:28:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0SPq-un3jq7dHEqVIFqHA-g]]></FromUserName>
+<CreateTime>1536647332</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476348390</MenuId>
+</xml>
+
+2018-09-11 14:28:52 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-09-11 14:28:52 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0SPq-un3jq7dHEqVIFqHA-g ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+

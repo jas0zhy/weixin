@@ -1,0 +1,305 @@
+2018-01-09 10:27:32 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-09 10:27:32 waring :
+------------
+String:
+Request Failed
+
+2018-01-09 11:36:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1NyXwuKpci6eB_2qSx5pndY]]></FromUserName>
+<CreateTime>1515468969</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-09 11:36:09 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-09 11:36:09 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1NyXwuKpci6eB_2qSx5pndY ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-01-09 11:36:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1NyXwuKpci6eB_2qSx5pndY]]></FromUserName>
+<CreateTime>1515468999</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-01-09 11:36:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-09 11:36:40 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1NyXwuKpci6eB_2qSx5pndY ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-01-09 11:36:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1NyXwuKpci6eB_2qSx5pndY]]></FromUserName>
+<CreateTime>1515469008</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[/::)]]></Content>
+<MsgId>6508889827891036239</MsgId>
+</xml>
+
+2018-01-09 11:36:49 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-09 11:36:49 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1NyXwuKpci6eB_2qSx5pndY ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-01-09 11:36:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1NyXwuKpci6eB_2qSx5pndY]]></FromUserName>
+<CreateTime>1515469013</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-01-09 11:36:54 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-09 11:36:54 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1NyXwuKpci6eB_2qSx5pndY ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-01-09 11:37:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1NyXwuKpci6eB_2qSx5pndY]]></FromUserName>
+<CreateTime>1515469031</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-01-09 11:37:12 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-09 11:37:12 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1NyXwuKpci6eB_2qSx5pndY ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-01-09 15:54:51 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-09 15:54:51 waring :
+------------
+String:
+Request Failed
+
+2018-01-09 15:55:00 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-09 15:55:00 waring :
+------------
+String:
+Request Failed
+
+2018-01-09 15:55:12 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-09 15:55:12 waring :
+------------
+String:
+Request Failed
+
+2018-01-09 15:55:15 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-09 15:55:15 waring :
+------------
+String:
+Request Failed
+
+2018-01-09 15:55:18 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-09 15:55:18 waring :
+------------
+String:
+Request Failed
+
+2018-01-09 15:56:35 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-09 15:56:35 waring :
+------------
+String:
+Request Failed
+
+2018-01-09 15:56:39 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-01-09 15:56:39 waring :
+------------
+String:
+Request Failed
+
+2018-01-09 16:40:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1D9eyyB0ngt95URE--dKEe0]]></FromUserName>
+<CreateTime>1515487248</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-01-09 16:40:49 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-09 16:40:49 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1D9eyyB0ngt95URE--dKEe0 ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-01-09 16:41:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1D9eyyB0ngt95URE--dKEe0]]></FromUserName>
+<CreateTime>1515487288</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-01-09 16:41:29 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-09 16:41:29 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1D9eyyB0ngt95URE--dKEe0 ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+

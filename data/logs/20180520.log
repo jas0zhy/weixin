@@ -1,0 +1,215 @@
+2018-05-20 06:30:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1NUzTKPXf36sB_FRxKmDLqI]]></FromUserName>
+<CreateTime>1526769021</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000028</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>184</TotalCount>
+<FilterCount>184</FilterCount>
+<SentCount>184</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2018-05-20 06:30:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-20 06:30:21 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1NUzTKPXf36sB_FRxKmDLqI ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-20 06:52:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1BZoFc-Vgy3gm6QAWvvoJTE]]></FromUserName>
+<CreateTime>1526770370</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-20 08:04:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1BjOBgA6i0ZDIqIBMxxT8po]]></FromUserName>
+<CreateTime>1526774695</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-05-20 08:04:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-20 08:04:55 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1BjOBgA6i0ZDIqIBMxxT8po ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-20 09:00:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1GWoUiq2llIeIiy7xIm767w]]></FromUserName>
+<CreateTime>1526778020</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-05-20 09:00:20 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-20 09:00:20 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1GWoUiq2llIeIiy7xIm767w ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-20 18:30:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1Nfqu26MiihnHeZsDKAwTPw]]></FromUserName>
+<CreateTime>1526812242</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-20 18:39:56 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-05-20 18:39:56 waring :
+------------
+String:
+Request Failed
+
+2018-05-20 19:39:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev6sXEEb3BSImo4M4UEeZ5WQ]]></FromUserName>
+<CreateTime>1526816382</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-20 19:39:42 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-20 19:39:42 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev6sXEEb3BSImo4M4UEeZ5WQ ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-05-20 19:40:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev6sXEEb3BSImo4M4UEeZ5WQ]]></FromUserName>
+<CreateTime>1526816405</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-05-20 19:40:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-20 19:40:05 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev6sXEEb3BSImo4M4UEeZ5WQ ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-05-20 19:40:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev6sXEEb3BSImo4M4UEeZ5WQ]]></FromUserName>
+<CreateTime>1526816450</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[。]]></EventKey>
+</xml>
+
+2018-05-20 19:40:50 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-20 19:40:50 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev6sXEEb3BSImo4M4UEeZ5WQ ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+

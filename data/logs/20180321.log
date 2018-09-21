@@ -1,0 +1,213 @@
+2018-03-21 13:29:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1cNMQNHOROfK_CVvgf2oeIQ]]></FromUserName>
+<CreateTime>1521610194</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-21 13:29:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-21 13:29:55 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1cNMQNHOROfK_CVvgf2oeIQ ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-03-21 13:30:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1cNMQNHOROfK_CVvgf2oeIQ]]></FromUserName>
+<CreateTime>1521610229</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-21 17:27:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1CFDwE-WuyS7tN7pxtoLFjI]]></FromUserName>
+<CreateTime>1521624430</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[wx_verify_pay_succ]]></Event>
+<OrderId><![CDATA[15333178700003146727]]></OrderId>
+</xml>
+
+2018-03-21 17:27:10 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-21 17:27:10 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1CFDwE-WuyS7tN7pxtoLFjI ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-03-21 17:28:11 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1CFDwE-WuyS7tN7pxtoLFjI]]></FromUserName>
+<CreateTime>1521624491</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[wx_verify_dispatch]]></Event>
+<Provider><![CDATA[上海倍通企业信用征信有限公司]]></Provider>
+<Contact><![CDATA[咨询电话：0411-84947888，咨询时间：周一至周五（工作日）8：30-17：30]]></Contact>
+<DispatchTime>1521624490</DispatchTime>
+</xml>
+
+2018-03-21 17:28:11 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-21 17:28:11 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1CFDwE-WuyS7tN7pxtoLFjI ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-03-21 17:28:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1CFDwE-WuyS7tN7pxtoLFjI]]></FromUserName>
+<CreateTime>1521624492</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[wx_verify_dispatch]]></Event>
+<Provider><![CDATA[上海倍通企业信用征信有限公司]]></Provider>
+<Contact><![CDATA[咨询电话：0411-84947888，咨询时间：周一至周五（工作日）8：30-17：30]]></Contact>
+<DispatchTime>1521624490</DispatchTime>
+</xml>
+
+2018-03-21 17:28:12 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-21 17:28:12 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1CFDwE-WuyS7tN7pxtoLFjI ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-03-21 20:37:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1KBa8AfS4mWdyIdCISSnuM8]]></FromUserName>
+<CreateTime>1521635834</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-03-21 20:37:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-21 20:37:15 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1KBa8AfS4mWdyIdCISSnuM8 ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-03-21 22:09:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1L_nmzy91NHBbuoHEnShLeA]]></FromUserName>
+<CreateTime>1521641359</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-21 22:09:19 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-21 22:09:19 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1L_nmzy91NHBbuoHEnShLeA ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-03-21 22:09:47 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1L_nmzy91NHBbuoHEnShLeA]]></FromUserName>
+<CreateTime>1521641387</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-03-21 22:09:47 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-21 22:09:47 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1L_nmzy91NHBbuoHEnShLeA ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+

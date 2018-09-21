@@ -1,0 +1,616 @@
+2018-07-06 00:44:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wYZZikkPJbtTi04SPyWsMKI]]></FromUserName>
+<CreateTime>1530809081</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-07-06 00:44:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 00:44:41 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wYZZikkPJbtTi04SPyWsMKI ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-07-06 00:44:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wYZZikkPJbtTi04SPyWsMKI]]></FromUserName>
+<CreateTime>1530809087</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=22]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-07-06 00:44:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 00:44:48 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wYZZikkPJbtTi04SPyWsMKI ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-07-06 00:46:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wYZZikkPJbtTi04SPyWsMKI]]></FromUserName>
+<CreateTime>1530809164</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=41]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-07-06 00:46:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 00:46:05 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wYZZikkPJbtTi04SPyWsMKI ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-07-06 00:46:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wYZZikkPJbtTi04SPyWsMKI]]></FromUserName>
+<CreateTime>1530809190</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=27]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-07-06 00:46:30 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 00:46:30 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wYZZikkPJbtTi04SPyWsMKI ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-07-06 00:47:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wYZZikkPJbtTi04SPyWsMKI]]></FromUserName>
+<CreateTime>1530809252</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-07-06 17:44:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev_7EllzmglHOI2B1C-ifr_8]]></FromUserName>
+<CreateTime>1530870289</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-07-06 17:44:49 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 17:44:49 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev_7EllzmglHOI2B1C-ifr_8 ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-07-06 17:44:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev_7EllzmglHOI2B1C-ifr_8]]></FromUserName>
+<CreateTime>1530870292</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-07-06 17:44:52 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 17:44:52 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev_7EllzmglHOI2B1C-ifr_8 ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-07-06 17:44:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev_7EllzmglHOI2B1C-ifr_8]]></FromUserName>
+<CreateTime>1530870299</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=site&a=site&do=detail&id=10]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-07-06 17:44:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 17:44:59 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev_7EllzmglHOI2B1C-ifr_8 ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-07-06 17:45:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev_7EllzmglHOI2B1C-ifr_8]]></FromUserName>
+<CreateTime>1530870303</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=site&a=site&do=detail&id=11]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-07-06 17:45:04 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 17:45:04 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev_7EllzmglHOI2B1C-ifr_8 ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-07-06 17:45:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev_7EllzmglHOI2B1C-ifr_8]]></FromUserName>
+<CreateTime>1530870309</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-07-06 17:45:09 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 17:45:09 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev_7EllzmglHOI2B1C-ifr_8 ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-07-06 19:54:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878071</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-07-06 19:54:31 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 19:54:31 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 19:54:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878075</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 19:54:35 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 19:54:35 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 19:54:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878079</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 19:54:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 19:54:40 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 19:56:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878218</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 19:56:58 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 19:56:58 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 19:58:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878300</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 19:58:20 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 19:58:20 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 19:59:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878340</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 19:59:00 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 19:59:00 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 19:59:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878359</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 19:59:19 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 19:59:19 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 19:59:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878384</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 19:59:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 19:59:44 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 20:00:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878418</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 20:00:18 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 20:00:18 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 20:00:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878452</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 20:00:52 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 20:00:52 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 20:09:37 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530878977</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[为什么提交不了]]></Content>
+<MsgId>6575075140794511217</MsgId>
+</xml>
+
+2018-07-06 20:09:37 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 20:09:37 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-06 20:17:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1RVPdAHRv13wo7Wd80kq-eE]]></FromUserName>
+<CreateTime>1530879464</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-06 20:17:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-06 20:17:44 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1RVPdAHRv13wo7Wd80kq-eE ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+

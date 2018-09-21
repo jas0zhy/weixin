@@ -1,0 +1,168 @@
+2018-05-24 13:49:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0YaYvKPvBv6zhupmk3tyoqU]]></FromUserName>
+<CreateTime>1527140978</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476348390</MenuId>
+</xml>
+
+2018-05-24 13:49:38 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-24 13:49:38 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0YaYvKPvBv6zhupmk3tyoqU ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-24 14:05:48 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-05-24 14:05:48 waring :
+------------
+String:
+Request Failed
+
+2018-05-24 14:05:52 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-05-24 14:05:52 waring :
+------------
+String:
+Request Failed
+
+2018-05-24 14:05:58 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-05-24 14:05:58 waring :
+------------
+String:
+Request Failed
+
+2018-05-24 14:06:01 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-05-24 14:06:01 waring :
+------------
+String:
+Request Failed
+
+2018-05-24 15:02:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1527145364</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-24 15:02:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-24 15:02:44 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-24 15:13:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1527146021</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-24 15:13:42 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-24 15:13:42 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-24 17:00:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0SPq-un3jq7dHEqVIFqHA-g]]></FromUserName>
+<CreateTime>1527152459</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476348390</MenuId>
+</xml>
+
+2018-05-24 17:00:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-24 17:00:59 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0SPq-un3jq7dHEqVIFqHA-g ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+

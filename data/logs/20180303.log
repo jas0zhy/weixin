@@ -1,0 +1,194 @@
+2018-03-03 12:43:30 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-03 12:43:30 waring :
+------------
+String:
+Request Failed
+
+2018-03-03 12:43:37 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-03 12:43:37 waring :
+------------
+String:
+Request Failed
+
+2018-03-03 12:43:45 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-03 12:43:45 waring :
+------------
+String:
+Request Failed
+
+2018-03-03 17:27:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0dqk1JArVwOq_ZyRgrKHqDI]]></FromUserName>
+<CreateTime>1520069225</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=home&t=29]]></EventKey>
+<MenuId>442837782</MenuId>
+</xml>
+
+2018-03-03 17:27:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-03 17:27:05 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0dqk1JArVwOq_ZyRgrKHqDI ;
+MsgType : text ;
+Content : 各位宗亲，大家好！欢迎关注贵州若木商贸公众号！ ;
+
+2018-03-03 17:27:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0dqk1JArVwOq_ZyRgrKHqDI]]></FromUserName>
+<CreateTime>1520069248</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=home&t=29]]></EventKey>
+<MenuId>442837782</MenuId>
+</xml>
+
+2018-03-03 17:27:28 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-03 17:27:28 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0dqk1JArVwOq_ZyRgrKHqDI ;
+MsgType : text ;
+Content : 各位宗亲，大家好！欢迎关注贵州若木商贸公众号！ ;
+
+2018-03-03 18:32:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev-Qr_EsoPVKcjJSaGxZFzAQ]]></FromUserName>
+<CreateTime>1520073136</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-03 18:32:17 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-03 18:32:17 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev-Qr_EsoPVKcjJSaGxZFzAQ ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-03-03 18:32:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev-Qr_EsoPVKcjJSaGxZFzAQ]]></FromUserName>
+<CreateTime>1520073155</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=site&a=site&do=detail&id=10]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-03-03 18:32:36 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-03 18:32:36 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev-Qr_EsoPVKcjJSaGxZFzAQ ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-03-03 18:32:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev-Qr_EsoPVKcjJSaGxZFzAQ]]></FromUserName>
+<CreateTime>1520073163</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-03-03 18:32:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-03 18:32:44 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev-Qr_EsoPVKcjJSaGxZFzAQ ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-03-03 23:53:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevwMRGDgKA0onSCsQz4fhKW0]]></FromUserName>
+<CreateTime>1520092414</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

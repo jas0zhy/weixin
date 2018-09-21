@@ -1,0 +1,115 @@
+2018-03-08 15:13:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wWJbSc5i-zXDu4ANz0sqSh4]]></FromUserName>
+<CreateTime>1520493205</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-08 15:13:25 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-08 15:13:25 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wWJbSc5i-zXDu4ANz0sqSh4 ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-03-08 15:14:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wWJbSc5i-zXDu4ANz0sqSh4]]></FromUserName>
+<CreateTime>1520493240</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=22]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-03-08 15:14:01 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-08 15:14:01 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wWJbSc5i-zXDu4ANz0sqSh4 ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-03-08 15:14:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wWJbSc5i-zXDu4ANz0sqSh4]]></FromUserName>
+<CreateTime>1520493273</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=41]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-03-08 15:14:33 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-08 15:14:33 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wWJbSc5i-zXDu4ANz0sqSh4 ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-03-08 15:14:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wWJbSc5i-zXDu4ANz0sqSh4]]></FromUserName>
+<CreateTime>1520493290</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=39]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-03-08 15:14:50 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-08 15:14:50 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wWJbSc5i-zXDu4ANz0sqSh4 ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+

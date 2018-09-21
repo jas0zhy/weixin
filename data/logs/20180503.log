@@ -1,0 +1,1559 @@
+2018-05-03 14:08:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0VC2PEXLu1tcwoW4_BQJQ64]]></FromUserName>
+<CreateTime>1525327710</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[。]]></Content>
+<MsgId>6551232630608919238</MsgId>
+</xml>
+
+2018-05-03 14:08:30 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:08:30 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0VC2PEXLu1tcwoW4_BQJQ64 ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:08:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0VC2PEXLu1tcwoW4_BQJQ64]]></FromUserName>
+<CreateTime>1525327719</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[。]]></Content>
+<MsgId>6551232669263624908</MsgId>
+</xml>
+
+2018-05-03 14:08:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:08:40 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0VC2PEXLu1tcwoW4_BQJQ64 ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:10:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0VC2PEXLu1tcwoW4_BQJQ64]]></FromUserName>
+<CreateTime>1525327825</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[。]]></Content>
+<MsgId>6551233124530158312</MsgId>
+</xml>
+
+2018-05-03 14:10:26 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:10:26 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0VC2PEXLu1tcwoW4_BQJQ64 ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:14:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0VC2PEXLu1tcwoW4_BQJQ64]]></FromUserName>
+<CreateTime>1525328075</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476347150</MenuId>
+</xml>
+
+2018-05-03 14:14:36 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:14:36 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0VC2PEXLu1tcwoW4_BQJQ64 ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:14:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0VC2PEXLu1tcwoW4_BQJQ64]]></FromUserName>
+<CreateTime>1525328082</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476347150</MenuId>
+</xml>
+
+2018-05-03 14:14:43 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:14:43 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0VC2PEXLu1tcwoW4_BQJQ64 ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:15:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0VC2PEXLu1tcwoW4_BQJQ64]]></FromUserName>
+<CreateTime>1525328129</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476347150</MenuId>
+</xml>
+
+2018-05-03 14:15:30 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:15:30 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0VC2PEXLu1tcwoW4_BQJQ64 ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:30:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0TzRvmlBMh_C0qWAEJ7lZ8k]]></FromUserName>
+<CreateTime>1525329054</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-03 14:30:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:30:55 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0TzRvmlBMh_C0qWAEJ7lZ8k ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:30:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0TzRvmlBMh_C0qWAEJ7lZ8k]]></FromUserName>
+<CreateTime>1525329056</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476347150</MenuId>
+</xml>
+
+2018-05-03 14:30:57 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:30:57 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0TzRvmlBMh_C0qWAEJ7lZ8k ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:31:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0TzRvmlBMh_C0qWAEJ7lZ8k]]></FromUserName>
+<CreateTime>1525329061</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476347150</MenuId>
+</xml>
+
+2018-05-03 14:31:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:31:02 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0TzRvmlBMh_C0qWAEJ7lZ8k ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:31:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0TzRvmlBMh_C0qWAEJ7lZ8k]]></FromUserName>
+<CreateTime>1525329079</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476347150</MenuId>
+</xml>
+
+2018-05-03 14:31:20 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:31:20 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0TzRvmlBMh_C0qWAEJ7lZ8k ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 14:33:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329220</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=24]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:33:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:33:40 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:35:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329334</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=41]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:35:34 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:35:34 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:35:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329341</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=24]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:35:42 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:35:42 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:36:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329366</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=22]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:36:06 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:36:06 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:36:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329372</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[联系方式]]></EventKey>
+</xml>
+
+2018-05-03 14:36:13 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 24 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:36:13 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 全国热线：400-852-2866 ;
+
+2018-05-03 14:36:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329379</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://map.baidu.com/mobile/webapp/search/search/qt=s&wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E8%B4%B5%E9%98%B3%E5%B8%82%E8%A7%82%E5%B1%B1%E6%B9%96%E5%8C%BA%E9%AB%98%E6%96%B0%E5%8C%BA%E8%B4%B5%E9%98%B3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%8E%A6B%E5%BA%A76%E6%A5%BC6%E5%8F%B7&newmap=1&ie=utf-8/%3Fpagelets%5B%5D=pager&pagelets%5B%5D=page_data&t=418287&vt=map]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:36:19 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:36:19 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:36:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329382</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=39]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:36:22 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:36:22 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:36:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329389</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[客服]]></EventKey>
+</xml>
+
+2018-05-03 14:36:29 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 25 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:36:29 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 添加客服微信号：13765150642 ;
+
+2018-05-03 14:36:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329391</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=home&t=27]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:36:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:36:32 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:36:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329395</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=entry&do=dayu_form&id=1&m=dayu_form]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:36:35 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:36:35 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:36:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329410</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=entry&do=dayu_form&id=1&m=dayu_form]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:36:50 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:36:50 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 14:37:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525329440</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=entry&do=dayu_form&id=1&m=dayu_form]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-05-03 14:37:20 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 14:37:20 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 15:05:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wXrw7fQFLf1q7oz0P5dVpo8]]></FromUserName>
+<CreateTime>1525331133</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 15:05:34 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 15:05:34 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wXrw7fQFLf1q7oz0P5dVpo8 ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 15:11:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wXrw7fQFLf1q7oz0P5dVpo8]]></FromUserName>
+<CreateTime>1525331512</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 15:11:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 15:11:53 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wXrw7fQFLf1q7oz0P5dVpo8 ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 15:13:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525331581</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-03 15:13:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 15:13:02 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 15:13:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525331586</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 15:13:06 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 15:13:06 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 15:23:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wXrw7fQFLf1q7oz0P5dVpo8]]></FromUserName>
+<CreateTime>1525332183</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 15:23:04 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 15:23:04 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wXrw7fQFLf1q7oz0P5dVpo8 ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 15:23:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525332199</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 15:23:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 15:23:21 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 15:23:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525332236</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 15:23:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 15:23:56 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 16:20:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0VC2PEXLu1tcwoW4_BQJQ64]]></FromUserName>
+<CreateTime>1525335602</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476348390</MenuId>
+</xml>
+
+2018-05-03 16:20:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 16:20:02 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0VC2PEXLu1tcwoW4_BQJQ64 ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 16:20:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0VC2PEXLu1tcwoW4_BQJQ64]]></FromUserName>
+<CreateTime>1525335634</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476348390</MenuId>
+</xml>
+
+2018-05-03 16:20:35 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 16:20:35 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0VC2PEXLu1tcwoW4_BQJQ64 ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 16:40:54 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-05-03 16:40:54 waring :
+------------
+String:
+Request Failed
+
+2018-05-03 18:14:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525342495</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-03 18:17:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525342646</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-03 18:17:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 18:17:27 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 18:17:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525342652</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 18:17:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 18:17:32 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 18:19:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525342795</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 18:19:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 18:19:56 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 18:21:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1525342880</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 18:21:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 18:21:21 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 20:54:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525352065</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-03 20:54:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 20:54:27 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OgaKcedmjTjHFe2B6_WThs ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-03 20:54:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525352070</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-05-03 20:54:31 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 20:54:31 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OgaKcedmjTjHFe2B6_WThs ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-03 20:54:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525352078</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-05-03 20:54:39 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 20:54:39 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OgaKcedmjTjHFe2B6_WThs ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-03 20:59:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525352366</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-05-03 20:59:26 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 20:59:26 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OgaKcedmjTjHFe2B6_WThs ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-03 20:59:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525352396</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-05-03 20:59:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 20:59:56 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OgaKcedmjTjHFe2B6_WThs ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-03 20:59:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525352399</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-05-03 20:59:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 20:59:59 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OgaKcedmjTjHFe2B6_WThs ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-03 21:01:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525352486</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6551339042673503207</MsgId>
+</xml>
+
+2018-05-03 21:01:29 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 21:01:29 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OgaKcedmjTjHFe2B6_WThs ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-03 21:01:51 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525352510</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[请问一下，你们具体地址怎么写，我写请帖]]></Content>
+<MsgId>6551339145752718325</MsgId>
+</xml>
+
+2018-05-03 21:01:51 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 21:01:51 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1OgaKcedmjTjHFe2B6_WThs ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-05-03 21:10:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525353037</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 21:10:39 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 21:10:39 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 21:29:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525354198</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 21:29:58 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 21:29:58 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 21:35:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525354543</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[联系方式]]></EventKey>
+</xml>
+
+2018-05-03 21:35:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 24 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 21:35:44 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 全国热线：400-852-2866 ;
+
+2018-05-03 21:35:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525354556</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://map.baidu.com/mobile/webapp/search/search/qt=s&wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E8%B4%B5%E9%98%B3%E5%B8%82%E8%A7%82%E5%B1%B1%E6%B9%96%E5%8C%BA%E9%AB%98%E6%96%B0%E5%8C%BA%E8%B4%B5%E9%98%B3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%8E%A6B%E5%BA%A76%E6%A5%BC6%E5%8F%B7&newmap=1&ie=utf-8/%3Fpagelets%5B%5D=pager&pagelets%5B%5D=page_data&t=418287&vt=map]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 21:35:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 21:35:56 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 21:36:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525354599</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=27]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 21:36:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 21:36:40 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 21:51:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wZViteXF8_FYy0UYnvMiE7o]]></FromUserName>
+<CreateTime>1525355463</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-05-03 21:51:04 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 21:51:04 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wZViteXF8_FYy0UYnvMiE7o ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-05-03 22:19:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0TzRvmlBMh_C0qWAEJ7lZ8k]]></FromUserName>
+<CreateTime>1525357196</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476348390</MenuId>
+</xml>
+
+2018-05-03 22:19:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 22:19:56 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0TzRvmlBMh_C0qWAEJ7lZ8k ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 22:20:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0TzRvmlBMh_C0qWAEJ7lZ8k]]></FromUserName>
+<CreateTime>1525357217</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476348390</MenuId>
+</xml>
+
+2018-05-03 22:20:18 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 22:20:18 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0TzRvmlBMh_C0qWAEJ7lZ8k ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 22:27:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0YaYvKPvBv6zhupmk3tyoqU]]></FromUserName>
+<CreateTime>1525357622</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-05-03 22:27:03 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 22:27:03 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0YaYvKPvBv6zhupmk3tyoqU ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 22:27:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_94895cfd80a6]]></ToUserName>
+<FromUserName><![CDATA[o92jL0YaYvKPvBv6zhupmk3tyoqU]]></FromUserName>
+<CreateTime>1525357627</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=20&c=home&t=32]]></EventKey>
+<MenuId>476348390</MenuId>
+</xml>
+
+2018-05-03 22:27:08 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 29 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-05-03 22:27:08 response :
+------------
+Array:
+FromUserName : gh_94895cfd80a6 ;
+ToUserName : o92jL0YaYvKPvBv6zhupmk3tyoqU ;
+MsgType : text ;
+Content : 您好，欢迎关注赫章一小微信公众号！ ;
+
+2018-05-03 22:55:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1OgaKcedmjTjHFe2B6_WThs]]></FromUserName>
+<CreateTime>1525359302</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

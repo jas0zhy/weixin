@@ -1,0 +1,41 @@
+2017-10-21 12:38:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wCquHNKW84oAAw4kGQdGjJM]]></FromUserName>
+<CreateTime>1508560691</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-10-21 12:38:12 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-10-21 12:38:12 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wCquHNKW84oAAw4kGQdGjJM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-10-21 22:24:26 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2017-10-21 22:24:26 waring :
+------------
+String:
+Request Failed
+

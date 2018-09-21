@@ -1,0 +1,120 @@
+2018-03-19 11:28:18 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-19 11:28:18 waring :
+------------
+String:
+Request Failed
+
+2018-03-19 13:07:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1E-IwkQ554DDHMtWTUYxihM]]></FromUserName>
+<CreateTime>1521436028</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-19 13:07:09 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-19 13:07:09 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1E-IwkQ554DDHMtWTUYxihM ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-03-19 13:07:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1E-IwkQ554DDHMtWTUYxihM]]></FromUserName>
+<CreateTime>1521436032</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-03-19 13:07:13 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-19 13:07:13 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1E-IwkQ554DDHMtWTUYxihM ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-03-19 15:49:56 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-19 15:49:56 waring :
+------------
+String:
+Request Failed
+
+2018-03-19 15:50:04 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-19 15:50:04 waring :
+------------
+String:
+Request Failed
+
+2018-03-19 15:50:09 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-19 15:50:09 waring :
+------------
+String:
+Request Failed
+
+2018-03-19 16:13:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_9e16f2771397]]></ToUserName>
+<FromUserName><![CDATA[oSSurvxhPffOOr1bM010oEOV-XXM]]></FromUserName>
+<CreateTime>1521447189</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

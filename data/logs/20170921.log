@@ -1,0 +1,889 @@
+2017-09-21 09:35:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wJ0Gm5Hz82p8VI5NP8UxMQc]]></FromUserName>
+<CreateTime>1505957701</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 09:35:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 09:35:02 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wJ0Gm5Hz82p8VI5NP8UxMQc ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 10:13:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev8-Th5gN23aD98je8pd1KTo]]></FromUserName>
+<CreateTime>1505960009</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[MASSSENDJOBFINISH]]></Event>
+<MsgID>1000000017</MsgID>
+<Status><![CDATA[send success]]></Status>
+<TotalCount>273</TotalCount>
+<FilterCount>273</FilterCount>
+<SentCount>273</SentCount>
+<ErrorCount>0</ErrorCount>
+<CopyrightCheckResult><Count>0</Count>
+<ResultList></ResultList>
+<CheckState>0</CheckState>
+</CopyrightCheckResult>
+</xml>
+
+2017-09-21 10:13:29 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 10:13:29 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev8-Th5gN23aD98je8pd1KTo ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 10:16:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev0lug-ldi5tJBg6tYQV4FAI]]></FromUserName>
+<CreateTime>1505960207</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 10:16:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 10:16:48 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev0lug-ldi5tJBg6tYQV4FAI ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 10:17:01 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev9QxhKSyqQJP_NRKoyxPdmk]]></FromUserName>
+<CreateTime>1505960220</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=mc&a=card&do=sign_display&]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 10:17:01 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 10:17:01 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev9QxhKSyqQJP_NRKoyxPdmk ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 10:17:05 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevzZKDBiaJ7Uz9-nh38MoezY]]></FromUserName>
+<CreateTime>1505960225</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 10:17:05 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 10:17:05 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBevzZKDBiaJ7Uz9-nh38MoezY ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 10:32:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev_TYMr3I4y7wI_WbwAqieEc]]></FromUserName>
+<CreateTime>1505961162</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 10:32:43 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 10:32:43 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev_TYMr3I4y7wI_WbwAqieEc ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 10:40:11 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wLcfmjEAx8FOWUPW91JCDyM]]></FromUserName>
+<CreateTime>1505961610</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 10:40:11 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 10:40:11 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wLcfmjEAx8FOWUPW91JCDyM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 11:12:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wLcfmjEAx8FOWUPW91JCDyM]]></FromUserName>
+<CreateTime>1505963543</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 11:12:24 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 11:12:24 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wLcfmjEAx8FOWUPW91JCDyM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 11:14:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wLcfmjEAx8FOWUPW91JCDyM]]></FromUserName>
+<CreateTime>1505963664</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 11:14:25 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 11:14:25 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wLcfmjEAx8FOWUPW91JCDyM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 11:41:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wKI66oFGfAV3TVozXGTJuNE]]></FromUserName>
+<CreateTime>1505965281</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 11:41:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 11:41:21 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wKI66oFGfAV3TVozXGTJuNE ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 11:43:24 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevzEe5KO1Cf8q8s7cwutH3sY]]></FromUserName>
+<CreateTime>1505965404</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=site&a=site&do=detail&id=10]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 11:43:24 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 11:43:24 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBevzEe5KO1Cf8q8s7cwutH3sY ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 12:02:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wNUUy8j0Wkunv2HKcT7sg88]]></FromUserName>
+<CreateTime>1505966567</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 12:02:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 12:02:48 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wNUUy8j0Wkunv2HKcT7sg88 ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 12:06:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev9HUjgFORTG5mQ7x_9LWZZQ]]></FromUserName>
+<CreateTime>1505966816</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 12:06:57 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 12:06:57 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev9HUjgFORTG5mQ7x_9LWZZQ ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 12:07:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev9HUjgFORTG5mQ7x_9LWZZQ]]></FromUserName>
+<CreateTime>1505966829</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=mc&a=bond&do=mycard&]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 12:07:10 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 12:07:10 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev9HUjgFORTG5mQ7x_9LWZZQ ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 13:15:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505970935</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:15:36 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:15:36 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:16:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505970963</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:16:04 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:16:04 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:16:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505970966</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:16:07 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:16:07 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:16:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505970969</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:16:10 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:16:10 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:16:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505970975</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:16:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:16:15 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:16:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505970976</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:16:17 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:16:17 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:16:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505970981</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:16:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:16:21 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:17:11 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505971030</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:17:11 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:17:11 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:17:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wPPt52rTjgsJfYp67frwakI]]></FromUserName>
+<CreateTime>1505971034</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:17:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:17:15 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wPPt52rTjgsJfYp67frwakI ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:28:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wB0qJ7dcVhTF1dHOFtEcz7Q]]></FromUserName>
+<CreateTime>1505971690</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:28:11 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:28:11 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wB0qJ7dcVhTF1dHOFtEcz7Q ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:43:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wH36qzj-vGOCVSb19FUbAms]]></FromUserName>
+<CreateTime>1505972587</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:43:08 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:43:08 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wH36qzj-vGOCVSb19FUbAms ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 13:43:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wH36qzj-vGOCVSb19FUbAms]]></FromUserName>
+<CreateTime>1505972605</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-09-21 13:43:26 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 13:43:26 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wH36qzj-vGOCVSb19FUbAms ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-09-21 14:09:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevzHoHlo3y2TCaGL7Zp7yAAw]]></FromUserName>
+<CreateTime>1505974151</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=site&a=site&do=detail&id=10]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 14:09:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 14:09:15 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBevzHoHlo3y2TCaGL7Zp7yAAw ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 14:09:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevzHoHlo3y2TCaGL7Zp7yAAw]]></FromUserName>
+<CreateTime>1505974187</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 14:09:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 14:09:48 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBevzHoHlo3y2TCaGL7Zp7yAAw ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 16:33:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev_rkES0OXq4YXH1aSO4MvE4]]></FromUserName>
+<CreateTime>1505982789</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-09-21 18:50:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev9QxhKSyqQJP_NRKoyxPdmk]]></FromUserName>
+<CreateTime>1505991040</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 18:50:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 18:50:41 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev9QxhKSyqQJP_NRKoyxPdmk ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2017-09-21 18:55:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev9QxhKSyqQJP_NRKoyxPdmk]]></FromUserName>
+<CreateTime>1505991319</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=site&a=site&do=detail&id=10]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2017-09-21 18:55:19 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-09-21 18:55:19 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev9QxhKSyqQJP_NRKoyxPdmk ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+

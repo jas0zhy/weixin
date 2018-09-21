@@ -1,0 +1,97 @@
+2018-07-04 06:41:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1dQuMSyy3mJjvFQpbswoOXY]]></FromUserName>
+<CreateTime>1530657688</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-04 06:41:28 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-04 06:41:28 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1dQuMSyy3mJjvFQpbswoOXY ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-04 07:22:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1dQuMSyy3mJjvFQpbswoOXY]]></FromUserName>
+<CreateTime>1530660161</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-07-04 07:22:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-04 07:22:41 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1dQuMSyy3mJjvFQpbswoOXY ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-07-04 17:57:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0TAgHt5m9nt6OIU9qusY-o4]]></FromUserName>
+<CreateTime>1530698272</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6574299018730191267</MsgId>
+</xml>
+
+2018-07-04 17:57:53 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-04 17:57:53 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0TAgHt5m9nt6OIU9qusY-o4 ;
+MsgType : text ;
+Content : 各位宗亲，大家好！欢迎关注贵州若木商贸公众号！ ;
+
+2018-07-04 22:03:20 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1dRx7nGgVJAipth1C4WAJek]]></FromUserName>
+<CreateTime>1530713000</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

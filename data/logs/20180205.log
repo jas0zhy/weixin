@@ -1,0 +1,853 @@
+2018-02-05 14:01:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810518</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:01:58 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:01:58 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:02:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810522</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>442760898</MenuId>
+</xml>
+
+2018-02-05 14:02:02 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:02:02 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:02:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810524</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>442760898</MenuId>
+</xml>
+
+2018-02-05 14:02:04 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:02:04 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:04:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810653</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:04:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810659</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:04:19 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:04:19 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:04:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810671</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[5]]></Content>
+<MsgId>6518947193907579403</MsgId>
+</xml>
+
+2018-02-05 14:04:32 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:04:32 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:04:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810690</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>442760898</MenuId>
+</xml>
+
+2018-02-05 14:04:50 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:04:50 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:04:54 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810693</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>442760898</MenuId>
+</xml>
+
+2018-02-05 14:04:54 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:04:54 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:04:57 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810696</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>442760898</MenuId>
+</xml>
+
+2018-02-05 14:04:57 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:04:57 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:05:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810722</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>442760898</MenuId>
+</xml>
+
+2018-02-05 14:05:23 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:05:23 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:05:29 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810729</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>442760898</MenuId>
+</xml>
+
+2018-02-05 14:05:29 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:05:29 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:05:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810735</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>442760898</MenuId>
+</xml>
+
+2018-02-05 14:05:35 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:05:35 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:07:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810832</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:07:19 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810839</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:07:19 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:07:19 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:07:22 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810842</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+<MenuId>442763875</MenuId>
+</xml>
+
+2018-02-05 14:07:22 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:07:22 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:07:53 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810873</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[各位宗亲，大家好!欢迎关注贵州若木商贸公众号！]]></Content>
+<MsgId>6518948061490973300</MsgId>
+</xml>
+
+2018-02-05 14:07:53 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:07:53 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:08:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810938</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+<MenuId>442763875</MenuId>
+</xml>
+
+2018-02-05 14:08:58 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:08:58 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:09:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810947</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.baidu.com]]></EventKey>
+<MenuId>442763875</MenuId>
+</xml>
+
+2018-02-05 14:09:07 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:09:07 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:09:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810955</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:09:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810965</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:09:25 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:09:25 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:09:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517810967</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=home&]]></EventKey>
+<MenuId>442763923</MenuId>
+</xml>
+
+2018-02-05 14:09:27 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:09:27 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:10:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811058</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:11:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811063</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:11:04 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:11:04 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:11:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811074</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[欢迎关注！]]></Content>
+<MsgId>6518948924779399894</MsgId>
+</xml>
+
+2018-02-05 14:11:14 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 14:11:14 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0UtQozZYyyOMS3YKOlFteNE ;
+MsgType : text ;
+Content : 欢迎关注！ ;
+
+2018-02-05 14:12:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811153</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:12:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811158</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:12:39 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:12:39 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:16:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811415</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:17:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811422</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:17:02 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:17:02 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:17:06 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811426</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=home&]]></EventKey>
+<MenuId>442763923</MenuId>
+</xml>
+
+2018-02-05 14:17:06 params :
+------------
+Array:
+message : Array ;
+module : default ;
+rule : -1 ;
+
+2018-02-05 14:17:06 response :
+------------
+Array:
+params : Array ;
+
+2018-02-05 14:19:33 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811573</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:19:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517811578</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:19:38 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 14:19:38 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0UtQozZYyyOMS3YKOlFteNE ;
+MsgType : text ;
+Content : 各位宗亲，大家好!欢迎关注贵州若木商贸公众号！ ;
+
+2018-02-05 14:20:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0XC0DGlUzi6fiD07Ag9oWDM]]></FromUserName>
+<CreateTime>1517811632</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 14:20:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 14:20:32 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0XC0DGlUzi6fiD07Ag9oWDM ;
+MsgType : text ;
+Content : 各位宗亲，大家好!欢迎关注贵州若木商贸公众号！ ;
+
+2018-02-05 14:20:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0XC0DGlUzi6fiD07Ag9oWDM]]></FromUserName>
+<CreateTime>1517811641</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=home&]]></EventKey>
+<MenuId>442763923</MenuId>
+</xml>
+
+2018-02-05 14:20:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 14:20:41 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0XC0DGlUzi6fiD07Ag9oWDM ;
+MsgType : text ;
+Content : 各位宗亲，大家好!欢迎关注贵州若木商贸公众号！ ;
+
+2018-02-05 14:57:42 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517813862</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=site&a=site&do=detail&id=55]]></EventKey>
+<MenuId>442765342</MenuId>
+</xml>
+
+2018-02-05 14:57:42 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 14:57:42 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0UtQozZYyyOMS3YKOlFteNE ;
+MsgType : text ;
+Content : 各位宗亲，大家好!欢迎关注贵州若木商贸公众号！ ;
+
+2018-02-05 15:01:44 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517814102</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=site&a=site&do=detail&id=55]]></EventKey>
+<MenuId>442765342</MenuId>
+</xml>
+
+2018-02-05 15:01:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 15:01:44 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0UtQozZYyyOMS3YKOlFteNE ;
+MsgType : text ;
+Content : 各位宗亲，大家好!欢迎关注贵州若木商贸公众号！ ;
+
+2018-02-05 15:02:04 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0UtQozZYyyOMS3YKOlFteNE]]></FromUserName>
+<CreateTime>1517814122</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=site&a=site&do=detail&id=55]]></EventKey>
+<MenuId>442765342</MenuId>
+</xml>
+
+2018-02-05 15:02:04 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 15:02:04 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0UtQozZYyyOMS3YKOlFteNE ;
+MsgType : text ;
+Content : 各位宗亲，大家好!欢迎关注贵州若木商贸公众号！ ;
+
+2018-02-05 23:46:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0fpcx4GSXS8ihrS6BsTR5S8]]></FromUserName>
+<CreateTime>1517845563</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-05 23:46:03 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 23:46:03 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0fpcx4GSXS8ihrS6BsTR5S8 ;
+MsgType : text ;
+Content : 各位宗亲，大家好!欢迎关注贵州若木商贸公众号！ ;
+
+2018-02-05 23:53:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0YXs6AZ6Mf0WEHNm48Bh8l4]]></FromUserName>
+<CreateTime>1517846019</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=site&a=site&do=detail&id=55]]></EventKey>
+<MenuId>442765342</MenuId>
+</xml>
+
+2018-02-05 23:53:39 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-05 23:53:39 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0YXs6AZ6Mf0WEHNm48Bh8l4 ;
+MsgType : text ;
+Content : 各位宗亲，大家好!欢迎关注贵州若木商贸公众号！ ;
+

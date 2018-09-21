@@ -1,0 +1,550 @@
+2018-03-12 10:32:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1cOmeNvk64V4FTvwvd0bJI8]]></FromUserName>
+<CreateTime>1520821927</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-12 10:32:07 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-12 10:32:07 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1cOmeNvk64V4FTvwvd0bJI8 ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-03-12 11:52:30 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:52:30 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:54:01 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:54:01 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:54:35 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:54:35 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:54:49 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:54:49 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:54:57 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:54:57 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:55:04 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:55:04 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:55:23 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:55:23 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:55:38 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:55:38 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:55:51 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:55:51 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:55:59 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:55:59 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:56:15 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:56:15 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:56:18 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:56:18 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:56:33 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:56:33 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:57:16 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:57:16 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:58:08 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:58:08 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:59:06 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:59:06 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:59:47 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:59:47 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 11:59:59 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 11:59:59 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 12:00:06 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 12:00:06 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 12:00:16 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 12:00:16 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 12:03:51 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 12:03:51 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 12:05:09 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 12:05:09 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 12:05:16 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 12:05:16 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 12:05:35 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 12:05:35 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 12:05:56 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 12:05:56 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 12:06:55 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 12:06:55 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 14:52:30 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-12 14:52:30 waring :
+------------
+String:
+Request Failed
+
+2018-03-12 16:27:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wYodY6bDJUOs_L650mYsvxQ]]></FromUserName>
+<CreateTime>1520843275</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-12 16:27:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-12 16:27:55 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wYodY6bDJUOs_L650mYsvxQ ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-03-12 16:28:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wYodY6bDJUOs_L650mYsvxQ]]></FromUserName>
+<CreateTime>1520843290</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=site&a=site&do=detail&id=27]]></EventKey>
+<MenuId>423464702</MenuId>
+</xml>
+
+2018-03-12 16:28:10 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-12 16:28:10 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wYodY6bDJUOs_L650mYsvxQ ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-03-12 16:51:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev-Pd09ufKmEKvhUVs22V57g]]></FromUserName>
+<CreateTime>1520844675</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-12 16:51:15 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-12 16:51:15 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev-Pd09ufKmEKvhUVs22V57g ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-03-12 16:51:23 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev-Pd09ufKmEKvhUVs22V57g]]></FromUserName>
+<CreateTime>1520844682</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[在不]]></Content>
+<MsgId>6531978172091118998</MsgId>
+</xml>
+
+2018-03-12 16:51:23 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-12 16:51:23 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev-Pd09ufKmEKvhUVs22V57g ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-03-12 16:51:30 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev-Pd09ufKmEKvhUVs22V57g]]></FromUserName>
+<CreateTime>1520844689</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-03-12 16:51:30 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-12 16:51:30 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev-Pd09ufKmEKvhUVs22V57g ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-03-12 16:51:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev-Pd09ufKmEKvhUVs22V57g]]></FromUserName>
+<CreateTime>1520844695</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=mc&a=bond&do=mycard&]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-03-12 16:51:35 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-12 16:51:35 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev-Pd09ufKmEKvhUVs22V57g ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+

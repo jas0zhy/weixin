@@ -1,0 +1,144 @@
+2018-04-27 09:42:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51ixCoj1N9ZDB28pJfc1MP_Q]]></FromUserName>
+<CreateTime>1524793375</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-27 09:42:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-04-27 09:42:55 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51ixCoj1N9ZDB28pJfc1MP_Q ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2018-04-27 09:42:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51ixCoj1N9ZDB28pJfc1MP_Q]]></FromUserName>
+<CreateTime>1524793379</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=17&c=site&a=site&do=detail&id=35]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2018-04-27 09:42:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-04-27 09:42:59 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51ixCoj1N9ZDB28pJfc1MP_Q ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2018-04-27 09:43:31 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51ixCoj1N9ZDB28pJfc1MP_Q]]></FromUserName>
+<CreateTime>1524793411</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2018-04-27 09:43:31 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-04-27 09:43:31 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51ixCoj1N9ZDB28pJfc1MP_Q ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2018-04-27 09:43:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51ixCoj1N9ZDB28pJfc1MP_Q]]></FromUserName>
+<CreateTime>1524793415</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=17&c=entry&eid=527]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2018-04-27 09:43:35 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-04-27 09:43:35 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51ixCoj1N9ZDB28pJfc1MP_Q ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2018-04-27 11:27:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1fMCqRMcCnuacuyK9alqMts]]></FromUserName>
+<CreateTime>1524799665</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-04-27 11:27:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-04-27 11:27:46 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1fMCqRMcCnuacuyK9alqMts ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+

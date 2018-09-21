@@ -1,0 +1,28 @@
+2018-03-07 18:56:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev1P0xQzk5UuKKYMmmw97lYk]]></FromUserName>
+<CreateTime>1520420196</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-03-07 18:56:36 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-07 18:56:36 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev1P0xQzk5UuKKYMmmw97lYk ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+

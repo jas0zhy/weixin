@@ -1,0 +1,133 @@
+2018-02-24 14:37:18 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-02-24 14:37:18 waring :
+------------
+String:
+Request Failed
+
+2018-02-24 14:37:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1Ci7TtWJIFwSoRnZdFkeymY]]></FromUserName>
+<CreateTime>1519454245</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-24 14:37:28 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_9e16f2771397]]></ToUserName>
+<FromUserName><![CDATA[oSSurv7hqjU-J3YzcgmLoE2klf40]]></FromUserName>
+<CreateTime>1519454247</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-24 14:37:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev0AXhSSRORqct5PbMwYHEtU]]></FromUserName>
+<CreateTime>1519454259</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-24 14:37:48 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_07a7ab1e550f]]></ToUserName>
+<FromUserName><![CDATA[oBqpn1SAaibdDgcU72A_Pc2fL6Vg]]></FromUserName>
+<CreateTime>1519454268</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=18&c=entry&do=shop&m=ewei_shop]]></EventKey>
+<MenuId>442049859</MenuId>
+</xml>
+
+2018-02-24 14:37:48 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 20 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-24 14:37:48 response :
+------------
+Array:
+FromUserName : gh_07a7ab1e550f ;
+ToUserName : oBqpn1SAaibdDgcU72A_Pc2fL6Vg ;
+MsgType : text ;
+Content : 感谢关注贵州罗甸红心火龙果/爱心 ;
+
+2018-02-24 19:40:08 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0dQqRLIrVPZuhSZoIQ9E5Tk]]></FromUserName>
+<CreateTime>1519472408</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=19&c=home&t=28]]></EventKey>
+<MenuId>442837782</MenuId>
+</xml>
+
+2018-02-24 19:40:08 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-24 19:40:08 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0dQqRLIrVPZuhSZoIQ9E5Tk ;
+MsgType : text ;
+Content : 各位宗亲，大家好！欢迎关注贵州若木商贸公众号！ ;
+
+2018-02-24 19:40:58 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0dQqRLIrVPZuhSZoIQ9E5Tk]]></FromUserName>
+<CreateTime>1519472458</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://map.baidu.com/mobile/webapp/search/search/qt=s&wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E8%B4%B5%E9%98%B3%E5%B8%82%E8%A7%82%E5%B1%B1%E6%B9%96%E5%8C%BA%E4%B8%96%E7%BA%AA%E5%9F%8E%E9%BE%99%E5%9F%8E%E5%BA%84%E5%9B%AD8%E6%A0%8B-1&newmap=1&ie=utf-8/vt=map]]></EventKey>
+<MenuId>442837782</MenuId>
+</xml>
+
+2018-02-24 19:40:58 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-24 19:40:58 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0dQqRLIrVPZuhSZoIQ9E5Tk ;
+MsgType : text ;
+Content : 各位宗亲，大家好！欢迎关注贵州若木商贸公众号！ ;
+

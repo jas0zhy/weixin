@@ -1,0 +1,29 @@
+2018-01-29 03:15:02 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev2OX-UXr7oKtJ49ueWSc-6E]]></FromUserName>
+<CreateTime>1517166902</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-01-29 03:15:02 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-29 03:15:02 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev2OX-UXr7oKtJ49ueWSc-6E ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+

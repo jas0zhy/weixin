@@ -1,0 +1,66 @@
+2018-03-23 10:57:39 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-23 10:57:39 waring :
+------------
+String:
+Request Failed
+
+2018-03-23 11:47:26 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1CFDwE-WuyS7tN7pxtoLFjI]]></FromUserName>
+<CreateTime>1521776845</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[wx_verify_refill]]></Event>
+<RefillTime>1521776845</RefillTime>
+<RefillReason><![CDATA[申请公函：1左下角盖章处需要加盖公司的红色公章，不可ps]]></RefillReason>
+</xml>
+
+2018-03-23 11:47:26 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-03-23 11:47:26 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1CFDwE-WuyS7tN7pxtoLFjI ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+
+2018-03-23 14:08:47 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-03-23 14:08:47 waring :
+------------
+String:
+Request Failed
+
+2018-03-23 21:53:10 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_b6dd8949412a]]></ToUserName>
+<FromUserName><![CDATA[osNo7wyJFF_4tZPYBdzji8CvqtVg]]></FromUserName>
+<CreateTime>1521813189</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

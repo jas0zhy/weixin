@@ -1,0 +1,485 @@
+2017-11-30 09:47:16 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wJDQJoGgZhGiO9QlXfTS42c]]></FromUserName>
+<CreateTime>1512006435</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-11-30 09:47:16 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 09:47:16 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wJDQJoGgZhGiO9QlXfTS42c ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-11-30 10:47:07 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1512010026</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=home&t=21]]></EventKey>
+<MenuId>422750895</MenuId>
+</xml>
+
+2017-11-30 10:47:07 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 10:47:07 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2017-11-30 11:57:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wBbarkUNuC5vybE8NOWun1Y]]></FromUserName>
+<CreateTime>1512014219</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-11-30 11:57:00 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 11:57:00 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wBbarkUNuC5vybE8NOWun1Y ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-11-30 12:31:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wJbB6GdOnrp53WUVsXyFn_E]]></FromUserName>
+<CreateTime>1512016281</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-11-30 12:31:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 12:31:21 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wJbB6GdOnrp53WUVsXyFn_E ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-11-30 15:08:39 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wLcfmjEAx8FOWUPW91JCDyM]]></FromUserName>
+<CreateTime>1512025718</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-11-30 15:08:39 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 15:08:39 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wLcfmjEAx8FOWUPW91JCDyM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-11-30 15:10:56 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_be7e4da020bc]]></ToUserName>
+<FromUserName><![CDATA[oPtQ2wLcfmjEAx8FOWUPW91JCDyM]]></FromUserName>
+<CreateTime>1512025856</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=8&c=home&t=8]]></EventKey>
+<MenuId>430931951</MenuId>
+</xml>
+
+2017-11-30 15:10:56 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 10 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 15:10:56 response :
+------------
+Array:
+FromUserName : gh_be7e4da020bc ;
+ToUserName : oPtQ2wLcfmjEAx8FOWUPW91JCDyM ;
+MsgType : text ;
+Content : 欢迎关注美食广场微信公众号！ ;
+
+2017-11-30 17:13:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51gtji0_5ari5sOP9QvMoSoI]]></FromUserName>
+<CreateTime>1512033192</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-30 17:13:13 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 17:13:13 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51gtji0_5ari5sOP9QvMoSoI ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2017-11-30 17:13:17 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51gtji0_5ari5sOP9QvMoSoI]]></FromUserName>
+<CreateTime>1512033196</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=17&c=site&a=site&do=detail&id=35]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2017-11-30 17:13:17 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 17:13:17 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51gtji0_5ari5sOP9QvMoSoI ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2017-11-30 17:13:34 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51gtji0_5ari5sOP9QvMoSoI]]></FromUserName>
+<CreateTime>1512033213</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://api.map.baidu.com/marker?location=26.645075,106.657789&title=一键导航&name=一键导航&content=贵州省贵阳市观山湖区贵阳华润国际社区E区第E区负一层120号&output=html&src=we7#wechat_redirect]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2017-11-30 17:13:34 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 17:13:34 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51gtji0_5ari5sOP9QvMoSoI ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2017-11-30 17:13:43 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51gtji0_5ari5sOP9QvMoSoI]]></FromUserName>
+<CreateTime>1512033223</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=17&c=site&a=site&do=detail&id=35]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2017-11-30 17:13:44 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 17:13:44 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51gtji0_5ari5sOP9QvMoSoI ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2017-11-30 20:08:35 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wezIo9BOmv7EY60wB-fOQJo]]></FromUserName>
+<CreateTime>1512043714</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=home&t=22]]></EventKey>
+<MenuId>422750895</MenuId>
+</xml>
+
+2017-11-30 20:08:35 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 20:08:35 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wezIo9BOmv7EY60wB-fOQJo ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2017-11-30 20:08:52 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wezIo9BOmv7EY60wB-fOQJo]]></FromUserName>
+<CreateTime>1512043731</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=home&t=22]]></EventKey>
+<MenuId>422750895</MenuId>
+</xml>
+
+2017-11-30 20:08:52 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 20:08:52 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wezIo9BOmv7EY60wB-fOQJo ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2017-11-30 20:09:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wezIo9BOmv7EY60wB-fOQJo]]></FromUserName>
+<CreateTime>1512043740</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com:7088/]]></EventKey>
+<MenuId>422750895</MenuId>
+</xml>
+
+2017-11-30 20:09:03 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 20:09:03 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wezIo9BOmv7EY60wB-fOQJo ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2017-11-30 20:42:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_9e16f2771397]]></ToUserName>
+<FromUserName><![CDATA[oSSurvxFlGdx_bZv9SmUX410ZyyU]]></FromUserName>
+<CreateTime>1512045737</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-30 21:07:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1L2XCTT6PQGdH6D6719RZ1g]]></FromUserName>
+<CreateTime>1512047279</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2017-11-30 22:51:12 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1512053469</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=home&t=22]]></EventKey>
+<MenuId>422750895</MenuId>
+</xml>
+
+2017-11-30 22:51:12 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 22:51:12 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2017-11-30 22:51:41 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1512053500</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://mb.gzqtbw.com:7088/]]></EventKey>
+<MenuId>422750895</MenuId>
+</xml>
+
+2017-11-30 22:51:41 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 22:51:41 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2017-11-30 22:51:46 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wT-ac5F3hz8_FipJEBm-sQk]]></FromUserName>
+<CreateTime>1512053505</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=16&c=home&t=21]]></EventKey>
+<MenuId>422750895</MenuId>
+</xml>
+
+2017-11-30 22:51:46 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2017-11-30 22:51:46 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wT-ac5F3hz8_FipJEBm-sQk ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+

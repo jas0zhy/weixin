@@ -1,0 +1,253 @@
+2018-02-12 07:23:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevw9Vp9sWkzIJFNjH92ZQcKU]]></FromUserName>
+<CreateTime>1518391383</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=mc&a=bond&do=mycard&]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-02-12 07:23:03 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-12 07:23:03 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBevw9Vp9sWkzIJFNjH92ZQcKU ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-02-12 07:23:09 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevw9Vp9sWkzIJFNjH92ZQcKU]]></FromUserName>
+<CreateTime>1518391389</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-02-12 07:23:09 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-12 07:23:09 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBevw9Vp9sWkzIJFNjH92ZQcKU ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-02-12 14:28:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_9e16f2771397]]></ToUserName>
+<FromUserName><![CDATA[oSSurv7KEjZcQSx7PaPdUY_V_eRs]]></FromUserName>
+<CreateTime>1518416915</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-12 17:41:40 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev79feUQKSC6hG1XJIcjxLcY]]></FromUserName>
+<CreateTime>1518428500</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=home&t=15]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-02-12 17:41:40 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-12 17:41:40 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev79feUQKSC6hG1XJIcjxLcY ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-02-12 17:41:50 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev79feUQKSC6hG1XJIcjxLcY]]></FromUserName>
+<CreateTime>1518428510</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=12&c=site&a=site&do=detail&id=10]]></EventKey>
+<MenuId>602413748</MenuId>
+</xml>
+
+2018-02-12 17:41:50 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-12 17:41:50 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev79feUQKSC6hG1XJIcjxLcY ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-02-12 17:41:59 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev79feUQKSC6hG1XJIcjxLcY]]></FromUserName>
+<CreateTime>1518428519</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[。]]></EventKey>
+</xml>
+
+2018-02-12 17:41:59 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-12 17:41:59 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBev79feUQKSC6hG1XJIcjxLcY ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-02-12 17:42:18 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBev79feUQKSC6hG1XJIcjxLcY]]></FromUserName>
+<CreateTime>1518428538</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-02-12 18:37:36 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51gtji0_5ari5sOP9QvMoSoI]]></FromUserName>
+<CreateTime>1518431856</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=17&c=site&a=site&do=detail&id=35]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2018-02-12 18:37:36 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-12 18:37:36 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51gtji0_5ari5sOP9QvMoSoI ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2018-02-12 18:38:00 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51gtji0_5ari5sOP9QvMoSoI]]></FromUserName>
+<CreateTime>1518431879</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2018-02-12 18:38:00 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-12 18:38:00 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51gtji0_5ari5sOP9QvMoSoI ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+
+2018-02-12 18:38:27 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_e35f14d80eb1]]></ToUserName>
+<FromUserName><![CDATA[on8J51gtji0_5ari5sOP9QvMoSoI]]></FromUserName>
+<CreateTime>1518431907</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=17&c=entry&eid=527]]></EventKey>
+<MenuId>419037559</MenuId>
+</xml>
+
+2018-02-12 18:38:27 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 17 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-12 18:38:27 response :
+------------
+Array:
+FromUserName : gh_e35f14d80eb1 ;
+ToUserName : on8J51gtji0_5ari5sOP9QvMoSoI ;
+MsgType : text ;
+Content : 欢迎关注华润哆妮宝贝母婴店 ;
+

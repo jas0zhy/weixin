@@ -1,0 +1,65 @@
+2018-02-27 11:49:05 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-02-27 11:49:05 waring :
+------------
+String:
+Request Failed
+
+2018-02-27 11:49:09 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-02-27 11:49:09 waring :
+------------
+String:
+Request Failed
+
+2018-02-27 11:49:16 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-02-27 11:49:16 waring :
+------------
+String:
+Request Failed
+
+2018-02-27 11:49:47 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-02-27 11:49:47 waring :
+------------
+String:
+Request Failed
+
+2018-02-27 22:00:17 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-02-27 22:00:17 waring :
+------------
+String:
+Request Failed
+

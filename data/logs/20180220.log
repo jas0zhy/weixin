@@ -1,0 +1,29 @@
+2018-02-20 12:53:38 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1FiDujKDH6c48IcAyD086II]]></FromUserName>
+<CreateTime>1519102418</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[http://www.gzqtbw.com/app/index.php?i=10&c=home&t=12]]></EventKey>
+<MenuId>427588424</MenuId>
+</xml>
+
+2018-02-20 12:53:38 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 11 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-02-20 12:53:38 response :
+------------
+Array:
+FromUserName : gh_3280735b50d8 ;
+ToUserName : oyWTK1FiDujKDH6c48IcAyD086II ;
+MsgType : text ;
+Content : 欢迎关注黔满园荣贵微信公众号！ ;
+

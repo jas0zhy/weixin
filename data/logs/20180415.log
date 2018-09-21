@@ -1,0 +1,85 @@
+2018-04-15 10:10:14 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wV87c9hlV92rVmTr6NXi5QM]]></FromUserName>
+<CreateTime>1523758214</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-04-15 10:10:14 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-04-15 10:10:14 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wV87c9hlV92rVmTr6NXi5QM ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-04-15 10:10:21 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wV87c9hlV92rVmTr6NXi5QM]]></FromUserName>
+<CreateTime>1523758220</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[VIEW]]></Event>
+<EventKey><![CDATA[https://map.baidu.com/mobile/webapp/search/search/qt=s&wd=%E8%B4%B5%E5%B7%9E%E7%9C%81%E8%B4%B5%E9%98%B3%E5%B8%82%E8%A7%82%E5%B1%B1%E6%B9%96%E5%8C%BA%E9%AB%98%E6%96%B0%E5%8C%BA%E8%B4%B5%E9%98%B3%E7%A7%91%E6%8A%80%E5%A4%A7%E5%8E%A6B%E5%BA%A76%E6%A5%BC6%E5%8F%B7&newmap=1&ie=utf-8/%3Fpagelets%5B%5D=pager&pagelets%5B%5D=page_data&t=418287&vt=map]]></EventKey>
+<MenuId>424172745</MenuId>
+</xml>
+
+2018-04-15 10:10:21 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 16 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-04-15 10:10:21 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wV87c9hlV92rVmTr6NXi5QM ;
+MsgType : text ;
+Content : 欢迎关注贵州博达云科技发展有限公司！ ;
+
+2018-04-15 10:10:55 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_a9b445bf4f73]]></ToUserName>
+<FromUserName><![CDATA[oaQb9wV87c9hlV92rVmTr6NXi5QM]]></FromUserName>
+<CreateTime>1523758255</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[CLICK]]></Event>
+<EventKey><![CDATA[联系方式]]></EventKey>
+</xml>
+
+2018-04-15 10:10:55 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 24 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-04-15 10:10:55 response :
+------------
+Array:
+FromUserName : gh_a9b445bf4f73 ;
+ToUserName : oaQb9wV87c9hlV92rVmTr6NXi5QM ;
+MsgType : text ;
+Content : 全国热线：400-852-2866 ;
+

@@ -1,0 +1,78 @@
+2018-01-13 17:16:15 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_3280735b50d8]]></ToUserName>
+<FromUserName><![CDATA[oyWTK1NyXwuKpci6eB_2qSx5pndY]]></FromUserName>
+<CreateTime>1515834975</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+
+2018-01-13 17:20:03 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevw9Vp9sWkzIJFNjH92ZQcKU]]></FromUserName>
+<CreateTime>1515835202</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[会员卡]]></Content>
+<MsgId>6510462619320500131</MsgId>
+</xml>
+
+2018-01-13 17:20:03 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-13 17:20:03 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBevw9Vp9sWkzIJFNjH92ZQcKU ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-01-13 17:20:25 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_387f2586a480]]></ToUserName>
+<FromUserName><![CDATA[oHlBevw9Vp9sWkzIJFNjH92ZQcKU]]></FromUserName>
+<CreateTime>1515835224</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[怎么查不到积分]]></Content>
+<MsgId>6510462713809780649</MsgId>
+</xml>
+
+2018-01-13 17:20:25 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 13 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-01-13 17:20:25 response :
+------------
+Array:
+FromUserName : gh_387f2586a480 ;
+ToUserName : oHlBevw9Vp9sWkzIJFNjH92ZQcKU ;
+MsgType : text ;
+Content : 欢迎关注李记梧桐人家微信公众号！ ;
+
+2018-01-13 21:42:49 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_9e16f2771397]]></ToUserName>
+<FromUserName><![CDATA[oSSurvz14-2PX_hwjSF0e3TIHaok]]></FromUserName>
+<CreateTime>1515850968</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[unsubscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+

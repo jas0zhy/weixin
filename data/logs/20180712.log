@@ -1,0 +1,69 @@
+2018-07-12 09:16:32 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0TAgHt5m9nt6OIU9qusY-o4]]></FromUserName>
+<CreateTime>1531358191</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6577133349253431274</MsgId>
+</xml>
+
+2018-07-12 09:16:32 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-12 09:16:32 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0TAgHt5m9nt6OIU9qusY-o4 ;
+MsgType : text ;
+Content : 各位宗亲，大家好！欢迎关注贵州若木商贸公众号！ ;
+
+2018-07-12 09:17:13 trace :
+------------
+String:
+<xml><ToUserName><![CDATA[gh_28e767424b83]]></ToUserName>
+<FromUserName><![CDATA[oaJVu0TAgHt5m9nt6OIU9qusY-o4]]></FromUserName>
+<CreateTime>1531358233</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[贵州若木]]></Content>
+<MsgId>6577133529642057715</MsgId>
+</xml>
+
+2018-07-12 09:17:13 params :
+------------
+Array:
+message : Array ;
+module : basic ;
+rule : 27 ;
+priority : 0 ;
+keyword : Array ;
+
+2018-07-12 09:17:13 response :
+------------
+Array:
+FromUserName : gh_28e767424b83 ;
+ToUserName : oaJVu0TAgHt5m9nt6OIU9qusY-o4 ;
+MsgType : text ;
+Content : 各位宗亲，大家好！欢迎关注贵州若木商贸公众号！ ;
+
+2018-07-12 12:16:08 trace :
+------------
+Array:
+errno : -1 ;
+message : 微信公众平台返回接口错误. 
+错误代码为: 40005 
+,错误描述为: appid 校验错误 ;
+
+2018-07-12 12:16:08 waring :
+------------
+String:
+Request Failed
+
